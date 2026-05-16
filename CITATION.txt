@@ -1,0 +1,9 @@
+To cite this study or the data therein, please use the following format:
+
+[निदान Group]. (2026). A Quantitative History of Discipline (Vinaya): Digital Analysis of the Evolution of Monastic Rules. Version 1.0. [Dataset and research papers]. GitHub. https://github.com/abuddhism/vinaya
+
+For individual PDF components, cite the specific file and page number(s).
+
+If using the annotated rule tables or any derived data, please also acknowledge the Creative Commons license (CC BY-NC 4.0) and include a link to the repository.
+
+This research makes use of public domain texts from the Pali Text Society, Taishō Tripitaka, and Tibetan Kangyur (Derge). See the source descriptions in 01_corpus_description/ for full references.
